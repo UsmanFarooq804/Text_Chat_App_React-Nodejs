@@ -1,0 +1,36 @@
+/* RoomList.css */
+.room-list-container {
+    text-align: center;
+    margin: 1em auto;
+    max-width: 600px;
+  }
+  
+  .room-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .room-item {
+    margin: 0.5em 0;
+  }
+  
+  .room-link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2em;
+  }
+  
+  .room-link:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  p {
+    color: #333;
+  }
+  
